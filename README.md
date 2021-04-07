@@ -23,4 +23,5 @@
 	* Technologies used: Java
 	* Turn-based strategy game played in the terminal
 	* Plan to develop Angular UI
+
 <img src="Assets/wizard.png" height="300px">
