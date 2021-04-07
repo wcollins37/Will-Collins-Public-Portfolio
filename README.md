@@ -1,6 +1,6 @@
 # Will Collins Portfolio
 
-![Headshot](https://intranet1.wpengine.com/wp-content/uploads/2021/01/William-Collins-Headshot.png)
+![Headshot](https://intranet1.wpengine.com/wp-content/uploads/2021/01/William-Collins-Headshot.png =200x)
 
 ## Contact Information
 * Email: collinswilliam122396@gmail.com
