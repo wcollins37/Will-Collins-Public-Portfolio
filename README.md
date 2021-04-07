@@ -6,7 +6,7 @@
 * LinkedIn: [https://www.linkedin.com/in/william-collins-0a1963172/](https://www.linkedin.com/in/william-collins-0a1963172/)
 
 ## Summary
-* Fullstack software engineer
+* Fullstack Software Engineer
 * Passionate about solving problems
 * Proficient in Java and Python
 * Experience with
