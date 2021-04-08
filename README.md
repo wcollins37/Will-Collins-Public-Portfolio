@@ -24,17 +24,17 @@
 	* Turn-based strategy game played in the terminal
 	* Plan to develop Angular UI
 
-<img src="Assets/wizard.png" height="300px">
+<img src="assets/wizard.png" height="300px">
 
 * [Steam Backlog Tracker](https://github.com/wcollins37/steam-backlog-tracker)
 	* Technologies used: Java, Spring Boot, PostgreSQL, Angular, TypeScript, HTML/CSS
 	* App to help a Steam user sort through and manage their library
 	* Uses real Steam data using Valve's web API
 
-<img src="Assets/backlog.png" height="300px">
+<img src="assets/backlog.png" height="300px">
 
 * [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
 	* Technologies used: Java, Spring Boot, MySQL, Vue, HTML/CSS
 	* Mockup up Airbnb listing page
 
-<img src="Assets/paradise.png" height="300px">
+<img src="assets/paradise.png" height="300px">
