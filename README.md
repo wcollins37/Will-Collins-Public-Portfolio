@@ -2,12 +2,10 @@
 
 ![Headshot](https://intranet1.wpengine.com/wp-content/uploads/2021/01/William-Collins-Headshot.png)
 
-<div style="text-align: center;">
-	## Contact Information
-	* Email: collinswilliam122396@gmail.com
-	* Phone: (912) 326-3622
-	* LinkedIn: [https://www.linkedin.com/in/william-collins-0a1963172/](https://www.linkedin.com/in/william-collins-0a1963172/)
-</div>
+## Contact Information
+* Email: collinswilliam122396@gmail.com
+* Phone: (912) 326-3622
+* LinkedIn: [https://www.linkedin.com/in/william-collins-0a1963172/](https://www.linkedin.com/in/william-collins-0a1963172/)
 
 ## Summary
 * Fullstack Software Engineer
