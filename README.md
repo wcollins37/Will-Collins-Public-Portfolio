@@ -19,22 +19,22 @@
 	* Concentrations in Artificial Intelligence and Information Internetworks
 
 ## Projects
-* [Wizard Battle](https://github.com/wcollins37/WizardBattle)
-	* Technologies used: Java
-	* Turn-based strategy game played in the terminal
-	* Plan to develop Angular UI
+### [Wizard Battle](https://github.com/wcollins37/WizardBattle)
+* Technologies used: Java
+* Turn-based strategy game played in the terminal
+* Plan to develop Angular UI
 
 <img src="assets/wizard.png" height="300px">
 
-* [Steam Backlog Tracker](https://github.com/wcollins37/steam-backlog-tracker)
-	* Technologies used: Java, Spring Boot, PostgreSQL, Angular, TypeScript, HTML/CSS
-	* App to help a Steam user sort through and manage their library
-	* Uses real Steam data using Valve's web API
+### [Steam Backlog Tracker](https://github.com/wcollins37/steam-backlog-tracker)
+* Technologies used: Java, Spring Boot, PostgreSQL, Angular, TypeScript, HTML/CSS
+* App to help a Steam user sort through and manage their library
+* Uses real Steam data using Valve's web API
 
 <img src="assets/backlog.png" height="300px">
 
-* [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
-	* Technologies used: Java, Spring Boot, MySQL, Vue, HTML/CSS
-	* Mockup up Airbnb listing page
+### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
+* Technologies used: Java, Spring Boot, MySQL, Vue, HTML/CSS
+* Mockup up Airbnb listing page
 
 <img src="assets/paradise.png" height="300px">
