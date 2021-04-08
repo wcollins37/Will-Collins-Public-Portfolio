@@ -1,5 +1,3 @@
-<link rel="stylesheet" type="text/css" media="all" href="./style.css" />
-
 ![Headshot](https://intranet1.wpengine.com/wp-content/uploads/2021/01/William-Collins-Headshot.png)
 
 ## Contact Information
