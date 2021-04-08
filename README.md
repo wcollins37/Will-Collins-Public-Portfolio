@@ -38,3 +38,4 @@
 * Mockup up Airbnb listing page
 
 ![paradise](assets/paradise.png)
+![paradise2](assets/paradise2.png)
