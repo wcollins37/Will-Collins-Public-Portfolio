@@ -20,6 +20,7 @@
 
 ## Projects
 ### [Wizard Battle](https://github.com/wcollins37/WizardBattle)
+___
 * Technologies used: Java
 * Turn-based strategy game played in the terminal
 * Plan to develop Angular UI
@@ -27,6 +28,7 @@
 ![wizard](assets/wizard.png)
 
 ### [Steam Backlog Tracker](https://github.com/wcollins37/steam-backlog-tracker)
+___
 * Technologies used: Java, Spring Boot, PostgreSQL, Angular, TypeScript, HTML/CSS
 * App to help a Steam user sort through and manage their library
 * Uses real Steam data using Valve's web API
@@ -34,6 +36,7 @@
 ![backlog](assets/backlog.png)
 
 ### [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
+___
 * Technologies used: Java, Spring Boot, MySQL, Vue, HTML/CSS
 * Mockup up Airbnb listing page
 
