@@ -1,4 +1,4 @@
-![Headshot](assets/square_headshot.jpg)
+![Headshot](assets/square_headshot.jpeg)
 
 ## Contact Information
 * Email: collinswilliam122396@gmail.com
