@@ -1,4 +1,4 @@
-![Headshot](https://intranet1.wpengine.com/wp-content/uploads/2021/01/William-Collins-Headshot.png)
+![Headshot](assets/square_headshot.jpg)
 
 ## Contact Information
 * Email: collinswilliam122396@gmail.com
