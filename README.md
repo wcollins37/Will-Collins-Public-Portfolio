@@ -3,7 +3,7 @@
 ## Contact Information
 * Email: collinswilliam122396@gmail.com
 * Phone: (912) 326-3622
-* LinkedIn: [https://www.linkedin.com/in/william-collins-0a1963172/](https://www.linkedin.com/in/william-collins-0a1963172/)
+* [LinkedIn](https://www.linkedin.com/in/william-collins-0a1963172/)
 
 ## Summary
 * Fullstack Software Engineer
