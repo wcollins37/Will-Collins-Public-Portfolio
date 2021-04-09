@@ -19,13 +19,13 @@
 	* Concentrations in Artificial Intelligence and Information Internetworks
 
 ## Projects
-* [Wizard Battle](https://github.com/wcollins37/WizardBattle)
-	* Sole contributor
-	* Technologies used: Java
-	* Turn-based strategy game played in the terminal
-	* Plan to develop Angular UI
+* [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
+	* One of 12 contributors
+	* Technologies used: Java, Spring Boot, MySQL, Vue, HTML/CSS
+	* Mockup up Airbnb listing page
 
-![wizard](assets/wizard.png)
+![paradise](assets/paradise.png)
+![paradise2](assets/paradise2.png)
 
 * [Steam Backlog Tracker](https://github.com/wcollins37/steam-backlog-tracker)
 	* Sole contributor
@@ -35,10 +35,10 @@
 
 ![backlog](assets/backlog.png)
 
-* [Find My Paradise](https://github.com/Smelser-Squad/FindMyParadise)
-	* One of 12 contributors
-	* Technologies used: Java, Spring Boot, MySQL, Vue, HTML/CSS
-	* Mockup up Airbnb listing page
+* [Wizard Battle](https://github.com/wcollins37/WizardBattle)
+	* Sole contributor
+	* Technologies used: Java
+	* Turn-based strategy game played in the terminal
+	* Plan to develop Angular UI
 
-![paradise](assets/paradise.png)
-![paradise2](assets/paradise2.png)
+![wizard](assets/wizard.png)
