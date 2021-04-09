@@ -8,7 +8,7 @@
 ## Summary
 * Fullstack Software Engineer
 * Passionate about solving problems
-* Proficient in Java and Python
+* Proficient in Java, Python, Javascript, and Typescript
 * Experience with
 	* Frontend: HTML/CSS, Angular, Vue
 	* Backend: Spring Boot, PostgreSQL, MySQL
